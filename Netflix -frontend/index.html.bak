@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Netflix Clone</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+ <div class="header">
+ <nav>
+      <img src="images/logo.png" class="logo">
+	  <div> 
+	  <button class="language-btn">English<img src="images/down-icon.png"></button>
+	  <button>Sign In</button>
+      </div>
+</nav>
+<div class="header-content">
+<h1>Unlimited movies, TV shows and more.</h1>
+<h3>Watch anywhere.Cancel anytime.</h3>
+<p>Ready to watch? Enter your Email to create or restart your membership.</P>
+<form class="email-signup">
+    <input type="email" placeholder="Email address" required>
+	<button type="submit">Get Started </button>
+</form>
+</div>
+</div>
+
+<div class="features"> 
+<div class="row">
+<div class="text-col">
+<h2>Enjoy on your TV.</h2>
+<P>Watch on smart TVs, playstation, Xbox, Cromecast, Apple TV, Blu-ray players and More.</p>
+</div>
+<div class="img-col">
+<img src="images/feature-1.jpg">
+</div>
+</div>
+</div>
+
+
+<div class="features"> 
+<div class="row">
+<div class="text-col">
+<h2>Download your shows to watch offline.</h2>
+<P>Save your favourites easily and always have something to watch.</p>
+</div>
+<div class="img-col">
+<img src="images/feature-2.jpg">
+</div>
+</div>
+</div>
+
+<div class="features"> 
+<div class="row">
+<div class="text-col">
+<h2>Create profiles for childrens.</h2>
+<P>Send children on adventures with their favourite characters in a space make just for them-free with your membership.</p>
+</div>
+<div class="img-col">
+<img src="images/feature-3.webp">
+</div>
+</div>
+</div>
+
+
+<div class="features"> 
+<div class="row">
+<div class="text-col">
+<h2>Go and see the horror movies.</h2>
+<P>Horror is focused on eliting a feeling of fear in the viewer or reader.</p>
+</div>
+<div class="img-col">
+<img src="images/feature-4.jpg">
+</div>
+</div>
+</div>
+
+
+<div class="features"> 
+<div class="row">
+<div class="text-col">
+<h2>Get thrill by seeing the triller movies</h2>
+<P>These titles are the best thrillers ever captured on the big screen.</p>
+</div>
+<div class="img-col">
+<img src="images/feature-5.webp">
+</div>
+</div>
+</div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
